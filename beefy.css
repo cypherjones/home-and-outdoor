@@ -10,7 +10,7 @@
   padding: 0 15px;
  }
 .hero-btn-size {
-  width: 239px;
+  width: 239px; 
 }
  @media only screen and (max-width: 1300px) and (min-width: 1000px) {
  	.logo-soup {
