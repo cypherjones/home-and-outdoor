@@ -1,0 +1,46 @@
+.logo-soup {
+	margin-top: 40px;
+}
+.logo-soup li {
+  display: table-cell;
+  height: auto;
+  justify-content: center;
+  align-items: center;
+  vertical-align: middle;
+  padding: 0 15px;
+ }
+
+ @media only screen and (max-width: 1300px) and (min-width: 1000px) {
+ 	.logo-soup {
+ 		margin-bottom: 0 !important;
+ 		margin-top: 0 !important;
+ 	}
+ }
+ @media screen and (max-width: 1024px) {
+ 	 	body h1 {
+ 		line-height: 42.5px !important;
+ 	}
+ }
+ @media screen and (max-width: 768px) {
+ 	.cta-header {
+ 		font-size: 42px !important;
+    line-height: 41px !important;
+ 	}
+ 	.smaller-logo {
+ 		width: 100% !important;
+ 	}
+ 	.hero-button {
+		margin-bottom: 40px !important;
+ 	}
+ 	.logo-soup li {
+ 		vertical-align: middle;
+    padding: 12px 38px;
+    width: 47%;
+    margin: auto;
+    display: inline-table;
+ 	}
+ }
+
+ .mfp-zoom-in .mfp-with-anim, .mfp-zoom-in .mfp-iframe-scaler {
+  opacity: 1;
+ }
