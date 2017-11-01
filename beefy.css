@@ -9,9 +9,6 @@
   vertical-align: middle;
   padding: 0 15px;
  }
-#beefy-buttons .hero-btn-size {
-  width: 240px !important; 
-}
  @media only screen and (max-width: 1300px) and (min-width: 1000px) {
  	.logo-soup {
  		margin-bottom: 0 !important;
