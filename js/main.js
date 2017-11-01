@@ -4,5 +4,5 @@ jQuery(document).ready(function($){
 	//        console.log('yes')
 	//     }
 	// });
-	$('.hero-btn-size').addClass('foo'); 
+	$('.hero-btn-size').css('width', '240px'); 
 })
