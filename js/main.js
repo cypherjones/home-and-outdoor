@@ -4,5 +4,5 @@ jQuery(document).ready(function($){
 	//        console.log('yes')
 	//     }
 	// });
-	$('.moo-menu-list-item').addClass('foo'); 
+	$('.hero-btn-size').addClass('foo'); 
 })
